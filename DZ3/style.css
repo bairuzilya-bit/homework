@@ -1,0 +1,20 @@
+table {
+    font-family: sans-serif;
+    font-size: x-large;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 20px;
+}
+td,
+th,
+caption {
+    border: 1px solid rgb(0, 0, 0);
+}
+
+caption {
+    border-bottom: none;
+    font-weight: 600;
+}
+.rd {
+    color: rgb(181, 2, 2);
+}
