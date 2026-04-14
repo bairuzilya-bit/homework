@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+}
+
+.form-group {
+    margin: 20px;
+    width: 230px;
+    padding: 20px 40px 20px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+h2 {
+    font-size: 20px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+textarea {
+    resize: vertical;
+    max-height: 200px;
+}
+
+.button {
+    cursor: pointer;
+}
